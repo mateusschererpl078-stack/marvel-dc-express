@@ -1,0 +1,13 @@
+
+{
+  "name": "marvel-dc-express",
+  "version": "1.0.0",
+  "description": "Aplicacao de rotas Marvel e DC com Node.js e Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
